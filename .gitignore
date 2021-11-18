@@ -1,0 +1,6 @@
+/.idea/
+/venv/
+*/__pycache__/
+/__pycache__/*
+/datasets/casia_faces_32/
+/datasets/lfw_32/

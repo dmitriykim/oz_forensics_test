@@ -1,0 +1,8 @@
+easydict
+mxnet-cu102
+Pillow
+sklearn
+torch
+torchvision
+tqdm
+matplotlib

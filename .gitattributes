@@ -1,0 +1,6 @@
+*.txt text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.ipynb text eol=lf
+datasets/** filter=lfs diff=lfs merge=lfs -text
+work_dirs/** filter=lfs diff=lfs merge=lfs -text
